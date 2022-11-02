@@ -6,7 +6,11 @@
 - ERD 다이어그램<br>
 : https://www.erdcloud.com/d/FhEpqzJWvfpNq7Loj<br><br>
 
-- ppt 발표자료 참고<br><br>
+- ppt 발표자료 참고<br>
+:박지선_DB모델 설계.pptx<br><br>
+
+- sql 스크립트<br>
+: market_D.sql<br><br>
 
 - 정규화 참고 사이트<br>
 : https://rang22.tistory.com/29<br>
